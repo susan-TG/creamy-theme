@@ -1,4 +1,7 @@
 /* Inserta tu código aquí */
+body {
+	font-family: 'Bitter', serif !important;
+}
 .navbar-default {
 	background-color: #D91414 !important;
 }
